@@ -1,11 +1,4 @@
-# Template progetto node + Typescript
+# Descrizione Progetto
 
-Istruzioni di utilizzo:
+Con l'aiuto della libreria commander.js ho creato la Cli per inserire, modificare, eliminare e visionare dei post fittizzi su Database MongoDb, utilizzando anche Mongoose.
 
-```
-git clone https://github.com/uollazzi/node-starter-ts.git <nome-progetto>
-```
-
-```
-git remote remove origin
-```
